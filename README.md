@@ -3,9 +3,12 @@ Additionally, I  have worked on machine learning, data mining, and NLP for resea
 
 # Tanvir worked with the following technologies:
 
-Programming Language: JavaScript, Java, and Python.
-Frameworks and Libraries: React.js, Express.js, Bootstrap, Material-UI.
-Tools & Technologies: Git, npm, firebase.
-Database: MongoDB, MySQL.
+**Programming Language:** JavaScript, Java, and Python.
+
+**Frameworks and Libraries:** React.js, Express.js, Bootstrap, Material-UI.
+
+**Tools & Technologies:** Git, npm, firebase.
+
+**Database:** MongoDB, MySQL.
 
 ### Portfolio- https://tanvirul-2e782.web.app/
